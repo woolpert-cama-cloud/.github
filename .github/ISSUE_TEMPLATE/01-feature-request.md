@@ -1,13 +1,10 @@
 ---
 name: Feature Request
 about: Use this template for tracking new features.
+type: feature
 ---
 
-# User Story (Feature) Template 
-
- 
-
-Title: Concise title for the User Story... 
+# Title: Concise title for the User Story... 
 
 As a ... 
 
@@ -16,8 +13,7 @@ I want to ...
 So that ... 
 
  
-
-Acceptance Criteria: 
+## Acceptance Criteria: 
 
 See: https://martinfowler.com/bliki/GivenWhenThen.html 
 
@@ -37,7 +33,7 @@ Then...
 
  
 
-Design: 
+## Design: 
 
 Screenshots... 
 
@@ -45,12 +41,12 @@ Wireframes...
 
  
 
-Technical Information: 
+## Technical Information: 
 
 Notes/Links to any technical information... 
 
  
 
-Additional Notes Information: 
+## Additional Notes Information: 
 
 Notes/Links to any additional information... 
