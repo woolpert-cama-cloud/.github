@@ -2,9 +2,10 @@
 name: Feature Request
 about: Use this template for tracking new features.
 type: feature
+title: <Concise title for the User Story>
 ---
 
-# Title: Concise title for the User Story... 
+# Title: Descriptive title for the User Story... 
 
 As a ... 
 
